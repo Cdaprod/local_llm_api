@@ -1,0 +1,5 @@
+flask==2.0.2
+requests==2.26.0
+openllm==0.9.95
+langflow==0.0.1
+
